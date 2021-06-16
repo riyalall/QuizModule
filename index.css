@@ -1,0 +1,22 @@
+#quiz, #score, #tscore{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 50px;
+}
+#main{
+    background-color: white;
+    border: 3px;
+    font-size: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#start{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
